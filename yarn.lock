@@ -172,6 +172,11 @@
   dependencies:
     find-up "^2.1.0"
 
+"@endemolshinegroup/tslint-config@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@endemolshinegroup/tslint-config/-/tslint-config-1.0.2.tgz#d2866c581e0d4224c3bd08c47f36556f592aeaa4"
+  integrity sha512-K0ZkTjiNAH/ZiHdLq7mH9V7WL4UlNp4BoykQ9yCOBQ7672sp52V9BJJpSo+H5o/3JPrHuEmoGk6cSa0WFI1pAA==
+
 "@marionebl/sander@^0.6.0":
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/@marionebl/sander/-/sander-0.6.1.tgz#1958965874f24bc51be48875feb50d642fc41f7b"
@@ -7210,18 +7215,12 @@ tslib@^1.8.0, tslib@^1.8.1, tslib@^1.9.0:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.9.3.tgz#d7e4dd79245d85428c4d7e4822a79917954ca286"
   integrity sha512-4krF8scpejhaOgqzBEcGM7yDIEfi0/8+8zDRZhNZZ2kjmHJ4hv3zCbQWxoJGz1iw5U0Jl0nma13xzHXcncMavQ==
 
-"tslint-config-esg@github:EndemolShineGroup/tslint-config-esg":
-  version "1.0.8"
-  resolved "https://codeload.github.com/EndemolShineGroup/tslint-config-esg/tar.gz/4d83ff3ce56ba03577c1169e7a379b19b15455a5"
-  dependencies:
-    tslint-eslint-rules "^5.3.1"
-
 tslint-config-prettier@^1:
   version "1.15.0"
   resolved "https://registry.yarnpkg.com/tslint-config-prettier/-/tslint-config-prettier-1.15.0.tgz#76b9714399004ab6831fdcf76d89b73691c812cf"
   integrity sha512-06CgrHJxJmNYVgsmeMoa1KXzQRoOdvfkqnJth6XUkNeOz707qxN0WfxfhYwhL5kXHHbYJRby2bqAPKwThlZPhw==
 
-tslint-eslint-rules@^5.3.1:
+tslint-eslint-rules@^5.4.0:
   version "5.4.0"
   resolved "https://registry.yarnpkg.com/tslint-eslint-rules/-/tslint-eslint-rules-5.4.0.tgz#e488cc9181bf193fe5cd7bfca213a7695f1737b5"
   integrity sha512-WlSXE+J2vY/VPgIcqQuijMQiel+UtmXS+4nvK4ZzlDiqBfXse8FAvkNnTcYhnQyOTW5KFM+uRRGXxYhFpuBc6w==
