@@ -24,10 +24,10 @@ yarn add @endemolshinegroup/prettier-config
 
 ## Usage
 
-```typescript
-import Library from @endemolshinegroup/prettier-config;
+Create a `prettier.config.js` in your project with the following:
 
-const library = new Library();
+```js
+module.exports = require('@endemolshinegroup/prettier-config');
 ```
 
 [icon-license]: https://img.shields.io/github/license/EndemolShineGroup/prettier-config.svg?longCache=true&style=flat-square
