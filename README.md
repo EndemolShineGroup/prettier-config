@@ -19,7 +19,7 @@ Prettier config for Endemol Shine Group repositories
 ## Installation
 
 ```bash
-yarn add @endemolshinegroup/prettier-config
+yarn add -D @endemolshinegroup/prettier-config
 ```
 
 ## Usage
