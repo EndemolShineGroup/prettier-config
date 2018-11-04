@@ -1,4 +1,4 @@
-# @endemolshinegroup/prettier-config
+![Banner][icon-banner]
 
 [![MIT Licensed][icon-license]][link-license]
 [![NPM Version][icon-npm]][link-npm]
@@ -29,6 +29,8 @@ Create a `prettier.config.js` in your project with the following:
 ```js
 module.exports = require('@endemolshinegroup/prettier-config');
 ```
+
+[icon-banner]: docs/assets/banner.png
 
 [icon-license]: https://img.shields.io/github/license/EndemolShineGroup/prettier-config.svg?longCache=true&style=flat-square
 [link-license]: LICENSE
